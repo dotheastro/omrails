@@ -4,7 +4,7 @@ class PinsController < ApplicationController
   # GET /pins
   # GET /pins.json
   def index
-    @pins = Pin.all # could make this current_user.pins.all if you wanted pins to be private
+    @pins = Pin.order("created_at desc") # could make this current_user.pins.all if you wanted pins to be private
 
     respond_to do |format|
       format.html # index.html.erb

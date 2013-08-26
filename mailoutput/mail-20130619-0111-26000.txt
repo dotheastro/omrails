@@ -1,0 +1,26 @@
+To: siena.aguayo@gmail.com
+Subject: New WordPress Site
+Date: Wed, 19 Jun 2013 01:11:30 +0000
+Return-Path: wordpress@localhost
+From: WordPress <wordpress@localhost>
+Message-ID: <5add96cc41d9740c6e65fb7423551ed5@localhost>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+Your new WordPress site has been successfully set up at:
+
+http://localhost:8079/wordpress
+
+You can log in to the administrator account with the following information:
+
+Username: admin
+Password: The password you chose during the install.
+
+We hope you enjoy your new site. Thanks!
+
+--The WordPress Team
+http://wordpress.org/
+
